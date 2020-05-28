@@ -2,7 +2,7 @@ body
 {
     margin: 0;
     padding: 0;
-    background: #262626;
+    background: rgb(174, 62, 189);
     font-family: verdana;
 }
 
@@ -109,10 +109,12 @@ article
 }
 
 .footer{
-    width: 100%;
+    width: auto;
+    position: relative;
+    top: 770px;
     height: 90px;
     text-align: center;
-    background-color: black;
+    background-color: rgb(88, 19, 97);
     color: #ffffff;
     padding-top:10px ;
     box-sizing: border-box;
